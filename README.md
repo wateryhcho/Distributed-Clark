@@ -1,4 +1,5 @@
 # Distributed-Clark_10.1
 GIS-based Hybrid Hydrologic Model for Spatially Distributed Rainfall-Runoff Routing
 
-## test
+## Notice
+Distributed-Clark will be developed for QGIS Ver. from ArcGIS Ver. in 2019.
